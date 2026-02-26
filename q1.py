@@ -28,6 +28,7 @@ def swap(x, y):
 
 print(swap("Apple", 10))  # Should return -1
 swap(9, 17)               
-# Should print Swapped values:
+# Output: 
+# Swapped values:
 # x = 17
 # y = 9
